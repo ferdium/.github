@@ -1,5 +1,5 @@
 # Ferdium Team
-This repository contains official communication and statements from the Ferdium Team. Our goal is to be as transparent as possible by publishing here.
+This page contains official communication and statements from the Ferdium Team. Our goal is to be as transparent as possible by publishing here.
 
 ### Ferdi
 Ferdi is a hard-fork of Franz, and **Ferdium** is a hard-fork of Ferdi. We started the Ferdium project after the major issues that Ferdi experienced from the project owner (which was one person). Former Ferdi contributors got offended and disrespected.
@@ -14,8 +14,8 @@ First of all: nobody owns this project. The project is driven by all maintainers
 
 **Hybula B.V.** currently has full access to the complete project, including domains, hosting, Discord server, and even most repositories. This has been decided to prevent one person having access to the complete project and causing potential harm to the project in the future (see what happened with Ferdi).
 
-Please remember that Ferdium is a community driven project, and that **Hybula B.V.** has no executive say or power to influence the project. It has an advising role and any advice is discussed with the project maintainers in all cases.
-Therefore, we are also happy to state that Ferdium is free software, and it will always be free.
+Please remember that Ferdium is a community-driven project, and that **Hybula B.V.** has no executive say or power to influence the project. It has an advising role and any advice is discussed with the project maintainers in all cases.
+Therefore, we are also happy to state that Ferdium is free software, and **it will always be free**.
 
 ### Sponsors
 <hr>
