@@ -3,7 +3,7 @@ This page contains official communication and statements from the Ferdium Team. 
 
 ### Ferdi
 Ferdi is a hard-fork of Franz, and **Ferdium** is a hard-fork of Ferdi. We started the Ferdium project after the major issues that Ferdi experienced from the project owner (which was one person). Former Ferdi contributors got offended and disrespected.
-The Ferdi social accounts, GitHub organization and domains where also taken down multiple times by the owner.
+The Ferdi social accounts, GitHub organization and domains were also taken down multiple times by the owner. They also (unilaterally) made a decision to monetize Ferdi - which was not in line with the rest of the contributors.
 
 On the 11th of June 2022 the owner of the Ferdi project announced on Twitter: "There will be no further updates to Ferdi. Thanks to everyone for the wild ride!".
 
